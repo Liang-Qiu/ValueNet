@@ -10,7 +10,7 @@ If the paper or the dataset inspires you, please cite us:
 
 ```
 @inproceedings{qiu2022valuenet,
-  title = {VALUENET: A New Dataset for Human Value Driven Dialogue System},
+  title = {ValueNet: A New Dataset for Human Value Driven Dialogue System},
   author = {Qiu, Liang and Zhao, Yizhou and Li, Jinchao and Lu, Pan and Peng, Baolin and Gao, Jianfeng and Zhu, Song-Chun},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
   year = {2022}
